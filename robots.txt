@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://www.realmy.net/sitemap.xml
